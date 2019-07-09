@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-sftp-cache",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Speed up your build time by caching files on a remote server with ssh/sftp access",
   "main": "index.js",
   "engines": {
