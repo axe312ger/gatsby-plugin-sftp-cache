@@ -14,7 +14,16 @@
     "index.js",
     "gatsby-node.js"
   ],
-  "keywords": [],
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "cache",
+    "ssh",
+    "ssh2",
+    "md5",
+    "hash",
+    "sftp"
+  ],
   "author": "Benedikt Rötsch <opensource@axe312.de>",
   "license": "MIT",
   "husky": {
