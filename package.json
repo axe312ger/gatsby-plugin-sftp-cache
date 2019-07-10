@@ -25,6 +25,14 @@
     "sftp"
   ],
   "author": "Benedikt Rötsch <opensource@axe312.de>",
+  "bugs": {
+    "url": "https://github.com/axe312ger/gatsby-plugin-sftp-cache/issues"
+  },
+  "homepage": "https://github.com/axe312ger/gatsby-plugin-sftp-cache/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/axe312ger/gatsby-plugin-sftp-cache.git"
+  },
   "license": "MIT",
   "husky": {
     "hooks": {
