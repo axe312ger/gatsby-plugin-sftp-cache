@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "gatsby": "^2.13.11",
-    "sftp-cache": "0.0.5"
+    "sftp-cache": "0.0.6"
   },
   "devDependencies": {
     "eslint": "^6.0.1",
