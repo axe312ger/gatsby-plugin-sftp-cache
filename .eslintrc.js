@@ -1,14 +1,17 @@
 module.exports = {
-  env: {
-    es6: true
-  },
-  parserOptions: {
-    sourceType: 'module',
-    ecmaVersion: '2017'
-  },
-  extends: ['standard', 'prettier'],
-  plugins: ['node'],
-  rules: {
-    'node/no-unsupported-features/es-syntax': 2
-  }
-}
+    "env": {
+        "commonjs": true,
+        "es6": true,
+        "node": true
+    },
+    "extends": "eslint:recommended",
+    "globals": {
+        "Atomics": "readonly",
+        "SharedArrayBuffer": "readonly"
+    },
+    "parserOptions": {
+        "ecmaVersion": 2018
+    },
+    "rules": {
+    }
+};
