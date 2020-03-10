@@ -53,7 +53,8 @@ module.exports = {
           join('.cache'),
           join('public', 'assets'),
           join('node_modules', '.cache', 'gatsby-transformer-video')
-        ]
+        ],
+        concurrency: 5 // Optional, defaults to 2.
       }
     }
   ]
