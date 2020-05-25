@@ -1668,10 +1668,10 @@ semver@^7.2.1:
   resolved "https://registry.yarnpkg.com/semver/-/semver-7.3.2.tgz#604962b052b81ed0786aae84389ffba70ffd3938"
   integrity sha512-OrOb32TeeambH6UrhtShmF7CRDqhL6/5XpPNp2DuRH6+9QLw/orhp72j87v8Qa1ScDkvrrBNpZcDejAirJmfXQ==
 
-sftp-cache@0.0.10:
-  version "0.0.10"
-  resolved "https://registry.yarnpkg.com/sftp-cache/-/sftp-cache-0.0.10.tgz#d97f3457f006d2f86f5febeaeb339f70c5b3fe9f"
-  integrity sha512-zDjLFg3DqvYaPNJQchGoKvxMMKPNbrPghCva0lqHdK1I9NwfBvk9+rlYgW1uTk5Y5AeVPQSWyKrOWs7KdAfyRQ==
+sftp-cache@0.0.11:
+  version "0.0.11"
+  resolved "https://registry.yarnpkg.com/sftp-cache/-/sftp-cache-0.0.11.tgz#e3b3bcfa48854cd693b4d46c4e55d49f7119f771"
+  integrity sha512-DHNYrg+V5fYk/sqk5UZ1GAHJbtzmn+FYIVMoRn7RAtaQVbLjGzxypdaJEe060MAjXzRSC+rDJWtiUgiXd2s2dw==
   dependencies:
     execa "^4.0.2"
     fast-glob "^3.0.4"
