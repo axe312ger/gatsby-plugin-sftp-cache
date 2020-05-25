@@ -1,7 +1,6 @@
 # gatsby-plugin-sftp-cache
 
 [![npm](https://img.shields.io/npm/v/gatsby-plugin-sftp-cache.svg?label=npm@latest)](https://www.npmjs.com/package/gatsby-plugin-sftp-cache)
-[![npm](https://img.shields.io/npm/v/gatsby-plugin-sftp-cache/canary.svg)](https://www.npmjs.com/package/gatsby-plugin-sftp-cache)
 [![npm](https://img.shields.io/npm/dm/gatsby-plugin-sftp-cache.svg)](https://www.npmjs.com/package/gatsby-plugin-sftp-cache)
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/fc81fa5e535561c0a6ff/maintainability)](https://codeclimate.com/github/axe312ger/gatsby-plugin-sftp-cache/maintainability)
@@ -22,7 +21,7 @@ Works well with https://github.com/axe312ger/gatsby-plugin-netlify-cache, make s
 ## Installation
 
 ```sh
-npm i gatsby-plugin-sftp-cache@canary
+npm i gatsby-plugin-sftp-cache
 ```
 
 ## Usage
