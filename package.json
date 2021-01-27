@@ -49,7 +49,7 @@
     ]
   },
   "dependencies": {
-    "sftp-cache": "0.0.14"
+    "sftp-cache": "0.1.0"
   },
   "peerDependencies": {
     "gatsby": "^2.0.0"
